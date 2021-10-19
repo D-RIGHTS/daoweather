@@ -1,0 +1,51 @@
+.mainContainer {
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.subContainer {
+    box-shadow: 0 0 15px grey;
+}
+
+input {
+    border: none;
+    border-bottom: 1px solid grey;
+    border-radius: 10px
+}
+
+.subContainerTwo {
+    box-shadow: 0 0 15px lightgrey;
+}
+
+.cold {
+    background-color:#00ffff;
+    border-radius: 20px;
+    box-shadow: 0 0 15px lightgrey;
+}
+
+.warm {
+    background-color: #fff700;
+    border-radius: 20px;
+    box-shadow: 0 0 15px lightgrey;
+}
+
+.hot {
+    background-color: #ff8c00;
+    border-radius: 20px;
+    box-shadow: 0 0 15px lightgrey;
+}
+
+
+.standardL {
+    background-color: white;
+}
+
+.divBlock {
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    left: 80%
+}
+
